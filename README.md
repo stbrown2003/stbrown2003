@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Microsoft Azure Sentinel Live Map](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Microsoft Azure Sentinel Live Map](https://github.com/stbrown2003/Azure-Sentinel-Live-Map)
 
 <h2>📚 Certifications</h2>
 
