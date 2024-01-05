@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Steven 
 
-<!--
-**stbrown2003/stbrown2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Microsoft Azure Sentinel Live Map](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚 Certifications</h2>
+
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/43EWXYUQMQLJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="StevenBrown66 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/stevenbrown66
+
