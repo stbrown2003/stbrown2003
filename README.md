@@ -1,6 +1,6 @@
 <h1>Hi, I'm Steven 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Microsoft Azure Sentinel Live Map](https://github.com/stbrown2003/Azure-Sentinel-Live-Map)
 
