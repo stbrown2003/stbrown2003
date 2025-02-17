@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Steven
 <a href="[https://linkedin.com](https://www.linkedin.com/in/stevenbrown66/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring Cloud Security Professional. Currently learning AWS and studying towards the AWS Certified Cloud Pracitioner and the AWS Solutions Architect -- Associate Certifications. I am also actively learning new tools and doing projects on the side to enhance my technical skills beyond the cloud. 
