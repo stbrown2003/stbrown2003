@@ -4,6 +4,7 @@
 I am an aspiring Cloud Security Professional. Currently learning AWS and studying towards the AWS Certified Cloud Pracitioner and the AWS Solutions Architect -- Associate Certifications. I am also actively learning new tools and doing projects on the side to enhance my technical skills beyond the cloud. 
 <h2>👨‍💻 Projects:</h2>
 
+  - [Vulnerability Management with Tenable Nessus Lab](https://github.com/stbrown2003/Vulnerability-Management-Lab/tree/main)
   - [Microsoft Azure Sentinel Live Map](https://github.com/stbrown2003/Azure-Sentinel-Live-Map)
 
 <h2>📚 Certifications</h2>
