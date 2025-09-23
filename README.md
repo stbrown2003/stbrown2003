@@ -1,7 +1,7 @@
 # Hello, I'm Steven
 <a href="https://www.linkedin.com/in/stevenbrown66"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Systems Administrator @Kinetx Co. Currently intersted in threat detection and securiy operations. I am also actively learning new tools and doing projects on the side to upskill myself and break into cybersecurity. 
+Currently intersted in threat detection and securiy operations. I am also actively learning new tools and doing projects on the side to upskill myself and break into cybersecurity. 
 
 ---
 <h1 align="center">👨‍💻 Projects</h1>
