@@ -6,7 +6,7 @@ Currently interested in threat detection and securiy operations. I am also activ
 ---
 ## 🚨 Threat Hunting and Security Operations
 
-  - [Vulnerability Management with Tenable Nessus Lab](https://github.com/stbrown2003/Vulnerability-Management-Lab/tree/main)
+  - [Threat Hunting Scenario: Unauthorized TOR Usage](https://github.com/stbrown2003/threat-hunt-tor-scenario/)
   - [Microsoft Azure Sentinel Live Map](https://github.com/stbrown2003/Azure-Sentinel-Live-Map)
 
 ---
