@@ -1,4 +1,4 @@
-# I'm Steven, a Systems Administrator and  Security Professional
+# I'm Steven, a Systems Administrator and  Security Enthusiast
 <a href="https://www.linkedin.com/in/stevenbrown66"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Currently interested in threat detection and securiy operations. I am also actively learning new tools and doing projects on the side to upskill myself and break into cybersecurity. 
