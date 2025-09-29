@@ -3,8 +3,11 @@
 
 Currently interested in threat detection and securiy operations. I am also actively learning new tools and doing projects on the side to upskill myself and break into cybersecurity. 
 
----
-## 🚨 Threat Hunting and Security Operations
+## 📊 Security Operations Projects
+
+- [SOAR & EDR Automation Project](https://github.com/stbrown2003/SOAR-EDR-Project)
+
+## 🚨 Threat Hunting Projects 
 
   - [Threat Hunting Scenario: Unauthorized TOR Usage](https://github.com/stbrown2003/threat-hunt-tor-scenario/)
   - [Incident Response Scenario: Suspicious Powershell Web Requests](https://github.com/stbrown2003/powershell-suspicious-web-request)
