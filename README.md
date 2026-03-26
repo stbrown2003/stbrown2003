@@ -10,6 +10,7 @@ Currently interested in threat detection and securiy operations. I am also activ
 ## 🚨 Threat Hunting Projects 
 
   - [Threat Hunting Scenario: Unauthorized TOR Usage](https://github.com/stbrown2003/threat-hunt-tor-scenario/)
+  - [Threat Hunting Scenario: Port of Entry](https://github.com/stbrown2003/threat-hunt-reports/blob/main/Port%20of%20Entry%20Threat%20Hunt.md)
   - [Incident Response Scenario: Suspicious Powershell Web Requests](https://github.com/stbrown2003/powershell-suspicious-web-request)
 
 ---
